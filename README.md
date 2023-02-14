@@ -1,11 +1,3 @@
-- 👀 I’m interested in MernStack Development , Machine learning And Blockchain ...
-- 🌱 I’m currently learning Blockchain with Solidity ...
-- Currently working as MernStack Developer
-- 📫 How to reach me ... 
-mohammedshaheershahzadrawda5@gmail.com
-+923072033276 (WhatsApp)
-
-
 <h3 align="center">
  👋 Hi, I’m @SHAHEERSHAHZAD!
 </h3>
@@ -55,3 +47,10 @@ mohammedshaheershahzadrawda5@gmail.com
 
 
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShaheerShahzadOfficial&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="ShaheerShahzadOfficial"  />
+
+
+- 👀 interested in MernStack Development , Machine learning And Blockchain ...
+- Currently working as React Native Developer
+- 📫 How to reach me ... 
+mohammedshaheershahzadrawda5@gmail.com
++923072033276 (WhatsApp)
