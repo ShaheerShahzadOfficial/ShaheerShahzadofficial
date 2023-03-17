@@ -48,6 +48,11 @@
 
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShaheerShahzadOfficial&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px"" alt="ShaheerShahzadOfficial"  />
 
+ 
+
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaheerShahzadOfficial&show_icons=true&locale=en" alt="ShaheerShahzadOfficial" /></p>
+ 
+ 
 <p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaheerShahzadOfficial&show_icons=true&locale=en&layout=compact" alt="ShaheerShahzadOfficial" /></p>
 
 - 👀 interested in MernStack Development , Machine learning And Blockchain ...
