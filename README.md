@@ -50,10 +50,10 @@
 
  
 
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaheerShahzadOfficial&show_icons=true&locale=en" alt="ShaheerShahzadOfficial" /></p>
- 
- 
-<p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaheerShahzadOfficial&show_icons=true&locale=en&layout=compact" alt="ShaheerShahzadOfficial" /></p>
+<!--  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaheerShahzadOfficial&show_icons=true&locale=en" alt="ShaheerShahzadOfficial" /></p>
+  -->
+<!--  
+<p align="center" style="margin-bottom: 30px;" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaheerShahzadOfficial&show_icons=true&locale=en&layout=compact" alt="ShaheerShahzadOfficial" /></p> -->
 
 - 👀 interested in MernStack Development , Machine learning And Blockchain ...
 - Currently working as React Native Developer
