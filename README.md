@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaheer Shahzad</h1>
 <h3 align="center">A passionate Mern Stack / React Native developer from Pakistan</h3>
 <br/>
-- 🌱 I’m currently learning **Python, Pandas and Gen Ai**
+- 🌱 I’m currently learning **Python, Pandas and Fast Api**
 
 - 👨‍💻 All of my projects are available at [https://shaheershahzad.pages.dev/](https://shaheershahzad.pages.dev/)
 
