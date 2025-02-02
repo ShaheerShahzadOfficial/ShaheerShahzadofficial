@@ -9,7 +9,7 @@
 <br/>
 - 🌱 I’m currently learning **Python, Pandas and Fast Api**
 
-- 👨‍💻 All of my projects are available at [https://shaheershahzad.pages.dev/](https://shaheershahzad.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://www.shaheershahzad.com](https://www.shaheershahzad.com)
 
 - 💬 Ask me about **React Native, Nextjs, TypeScript, MongoDB, Prisma etc**
 
